@@ -14,6 +14,9 @@
 - **内部资料严禁外传**
 
 ### 其他补充说明（待更新）
+- “玩转大数据”网站[地址](http://www.playbigdata.com/)，课堂演示用的是[文本处理工具](http://websensor.playbigdata.com/du)
+
+- 关于 Excel，课程以 Windows 版 Excel 2010 以上版本为准——建议 Mac 用户去[品知人大](http://bt.ruc6.edu.cn/b/thread-271113-1-1.html)或者其他来源下载 Excel for Mac 2016，**不要使用老版本或者苹果自带的办公软件**
 
 - Anaconda3的安装
 
